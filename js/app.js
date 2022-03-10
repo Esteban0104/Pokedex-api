@@ -1,7 +1,6 @@
 console.log('hola mundo')
 
 
-
 document.addEventListener('DOMContentLoaded', ()=>{
     const random = getRandomInt (1,151)
     fecthData(random)
